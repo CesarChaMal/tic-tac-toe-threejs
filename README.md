@@ -30,3 +30,7 @@ Open the local URL printed by Vite.
 npm run build
 npm run preview
 ```
+
+## Author
+
+Made by [cesarchamal](https://github.com/cesarchamal).

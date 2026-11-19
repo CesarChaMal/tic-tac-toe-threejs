@@ -105,7 +105,18 @@ export default function App() {
 
         <footer className="game-footer">
           <span className="footer-line" />
-          <p>Built with React &amp; Three.js</p>
+          <p>
+            Made by{" "}
+            <a
+              className="creator-link"
+              href="https://github.com/cesarchamal"
+              target="_blank"
+              rel="noreferrer"
+            >
+              cesarchamal
+            </a>{" "}
+            · Built with React &amp; Three.js
+          </p>
           <span className="footer-line" />
         </footer>
       </section>
